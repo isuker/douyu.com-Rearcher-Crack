@@ -1,10 +1,10 @@
-![baidu](http://staticlive.douyutv.com/common/douyu/images/logo.png?20150713 "斗鱼logo")
+﻿![baidu](http://staticlive.douyutv.com/common/douyu/images/logo.png?20150713 "斗鱼logo")
 ##这是什么项目?
 一个叫斗鱼网站的读取工具。<br>
 网站地址是 http://www.douyu.com<br>
 本站点已迁移至 https://git.oschina.net/zombierpg/douyu.com-Rearcher-Crack<br>
 这个工程还在开发中。。。。尚未完成
-
+Version 0.2
 
 ##DY-Rearcher-Crack有哪些功能？
 
